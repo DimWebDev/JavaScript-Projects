@@ -68,4 +68,4 @@ function convertToRoman(num) {
 	return romanNumeral;
 }
 
-convertToRoman(2);
+convertToRoman();
